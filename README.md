@@ -1,8 +1,8 @@
 # Vagrant
 
-## Esse projeto consiste em um arquivo Vagrantfile personalizado que configura placa de no modo bridge com ip fixo e o mesmo importa a chave ssh ##
+## Esse projeto consiste provisionar VM Debian/Buster com placa de rede no modo bridge com ip fixo na sua faixa de IP e o mesmo importa a chave ssh do seu linux##
 
-Requisitos:
+### Requisitos:
 
 Vagrant
 
@@ -11,6 +11,8 @@ Virtualbox
 Git
 
 Ssh
+
+### Passos
 
 Primero baixe a pasta com o comando:
 
