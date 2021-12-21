@@ -1,5 +1,6 @@
 # Vagrant
 
+<<<<<<< HEAD
 ## Esse projeto consiste provisionar VM Debian/Buster com placa de rede no modo bridge com ip fixo na sua faixa de IP e o mesmo importa a chave ssh do seu linux na VM criada pelo vagrant
 
 ### Requisitos:
